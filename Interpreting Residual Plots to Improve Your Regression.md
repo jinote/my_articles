@@ -1,4 +1,5 @@
 __Interpreting Residual Plots to Improve Your Regression__
+
 __Summary_
 
 * Use the observed, predicted, and residual values to assess and improve the model.
